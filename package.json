@@ -1,5 +1,5 @@
 {
-  "name": "https://micosinaconzasonyalegria./com",
+  "name": "https://micosinaconzasonyalegria.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -125,3 +125,4 @@
     "not dead"
   ]
 }
+
